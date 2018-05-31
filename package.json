@@ -1,19 +1,14 @@
 {
-    "name": "greenery",
-    "displayName": "Greenery",
+    "name": "greenery-ns",
+    "displayName": "Greenery (NS)",
     "description": "A dark based theme for people who wish they were in a forest, but still want to read their code",
-    "version": "0.2.1",
+    "version": "1.0.0",
     "author": "Jared Jones [@jaredkent]",
-    "publisher": "jaredkent",
-    "galleryBanner": {
-        "color": "#83a06c",
-        "theme": "dark"
-    },
     "icon": "logo.png",
-    "homepage": "https://github.com/Jaredk3nt/nova-theme",
+    "homepage": "https://github.com/nevadascout/greenery-ns",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Jaredk3nt/nova-theme"
+        "url": "https://github.com/nevadascout/greenery-ns"
     },
     "engines": {
         "vscode": "^1.22.0"
@@ -24,7 +19,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "greenery",
+                "label": "greenery-ns",
                 "uiTheme": "vs-dark",
                 "path": "./themes/greenery-color-theme.json"
             }
