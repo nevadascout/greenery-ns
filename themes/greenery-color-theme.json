@@ -19,7 +19,7 @@
         "tab.inactiveBackground": "#222",
         "tab.border": "#1f1f1f",
         "tab.activeBorder": "#507a5f",
-        "tab.hoverBackground": "#507a5f",
+        "tab.hoverBackground": "#353535",
 
         "statusBar.background": "#455845",
 
@@ -38,8 +38,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "fontStyle": "italic",
-                "foreground": "#4e5350"
+                "foreground": "#5f6461"
             }
         },
         {
@@ -70,8 +69,7 @@
                 "entity.name.function.js"
             ],
             "settings": {
-                "foreground": "#8eac74",
-                "fontStyle": "italic"
+                "foreground": "#8eac74"
             }
         },
         {
@@ -161,8 +159,7 @@
                 "entity.name.function.python"
             ],
             "settings": {
-                "foreground": "#ebc17a",
-                "fontStyle": "italic"
+                "foreground": "#ebc17a"
             }
         },
         {
@@ -171,8 +168,7 @@
                 "variable.other.property.js"
             ],
             "settings": {
-                "foreground": "#b06698",
-                "fontStyle": "italic"
+                "foreground": "#b06698"
             }
         },
         {
@@ -304,7 +300,6 @@
                 "variable.language"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#FF5370"
             }
         },
@@ -314,7 +309,6 @@
                 "entity.name.method.js"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#82AAFF"
             }
         },
@@ -344,7 +338,6 @@
                 "text.html.basic entity.other.attribute-name"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#ebc17a"
             }
         },
@@ -440,7 +433,6 @@
                 "tag.decorator.js punctuation.definition.tag.js"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#82AAFF"
             }
         },
@@ -450,7 +442,6 @@
                 "source.js constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#FF5370"
             }
         },
@@ -847,8 +838,7 @@
                 "entity.other.attribute-name.jsx"
             ],
             "settings": {
-                "foreground": "#e4c675",
-                "fontStyle": "italic"
+                "foreground": "#e4c675"
             }
         },
         {
@@ -871,8 +861,7 @@
                 "keyword.other.unit.percentage.css"
             ],
             "settings": {
-                "foreground": "#b06698",
-                "fontStyle": "italic"
+                "foreground": "#b06698"
             }
         },
         {
