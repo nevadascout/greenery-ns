@@ -22,7 +22,7 @@
             {
                 "label": "greenery-ns",
                 "uiTheme": "vs-dark",
-                "path": "./themes/greenery-color-theme.json"
+                "path": "./themes/greenery-ns-color-theme.json"
             }
         ]
     }
